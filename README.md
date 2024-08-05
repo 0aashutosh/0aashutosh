@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0aashutosh
 - 👀 I’m interested in coding?
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me out at aashutoshlama27@gmail.com
 
