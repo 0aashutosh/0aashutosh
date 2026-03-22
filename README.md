@@ -6,11 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0aashutosh&label=Profile%20views&color=0e75b6&style=flat" alt="0aashutosh" /> </p>
 
-- 🌱 I’m currently learning **C++,HTML,CSS,JAVASCRIPT,SQL**
+- 🌱 I’m currently learning **React, little bit of system design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/0aashutosh?tab=repositories](https://github.com/0aashutosh?tab=repositories)
 
-- 💬 Ask me about **C programming**
 
 - 📫 How to reach me **aashutoshlama27@gmail.com**
 
